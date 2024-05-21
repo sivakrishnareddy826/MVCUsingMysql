@@ -1,0 +1,6 @@
+
+MVC template after running it will point to the default page then you have to pass the Controller name to the URL then it will show of 
+our controller views.
+here http://localhost:6093/ it is the default page and our controller name is 'Employees' then the Url is following below:
+
+http://localhost:6093/Employees
